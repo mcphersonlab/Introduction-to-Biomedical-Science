@@ -9,6 +9,7 @@ The repository holds:
 - [`.github/workflows/quarto-render.yml`](.github/workflows/quarto-render.yml): Install Quarto CLI, install Python dependencies, render, and deploy the Quarto book
 - [`_quarto.yml`](_quarto.yml): Core course/book metadata and chapter structure (for more options see [Quarto: Book Structure](https://quarto.org/docs/books/book-structure.html))
 - [`index.qmd`](index.qmd): Course landing page
+- [`syllabus.qmd`](syllabus.qmd): Syllabus page with links to all day lessons
 
 Additional files:
 
@@ -19,9 +20,9 @@ Additional files:
 
 This repository is set up so you can drop in your course files later without creating them in advance.
 
-When ready, add your files using this naming convention in the repository root:
+When ready, add your files using this naming convention in the `day/` folder:
 
-- `day-01.qmd` through `day-30.qmd`
+- `day/day-01.qmd` through `day/day-30.qmd`
 
 Then update the `book.chapters` section in [`_quarto.yml`](_quarto.yml) to include them in order.
 
