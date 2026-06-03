@@ -3,23 +3,23 @@ project:
   output-dir: _book
   
 book:
-  title: "Your Book Title"
-  author: "Your Name"
+  title: "30-Day Introduction to Biomedical Science"
+  author: "McPherson Lab"
   description: | 
-    A description of your book
+    A 30-day introductory biomedical science course.
   #cover-image: images/cover.png
-  site-url: https://username.github.io/repository-name
-  repo-url: https://github.com/username/repository-name
+  site-url: https://mcphersonlab.github.io/Introduction-to-Biomedical-Science
+  repo-url: https://github.com/mcphersonlab/Introduction-to-Biomedical-Science
   repo-branch: main
   repo-actions: [edit]
   sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
-    - part: my-first-book.qmd
-      chapters: 
-        - hello-world.qmd
-  appendices:
-    - appendix-notes.qmd
+    # Add your day files when ready:
+    # - day-01.qmd
+    # - day-02.qmd
+    # ...
+    # - day-30.qmd
     
 format:
   html: 
