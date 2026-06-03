@@ -1,0 +1,19 @@
+# Day 6: Drug Development: Biopharmaceutics, Pharmacokinetics, Pharmacodynamics
+
+## Topic of the Day
+
+Drug Development: Biopharmaceutics, Pharmacokinetics, Pharmacodynamics
+
+## Assigned Readings
+
+1. ADME principles in drug development
+2. Pharmacokinetic parameter interpretation
+3. Pharmacodynamic modeling examples
+
+## Assigned Listen
+
+- Podcast: PK/PD in Clinical Translation
+
+## Career Highlight
+
+- Career highlight: Clinical Pharmacologist

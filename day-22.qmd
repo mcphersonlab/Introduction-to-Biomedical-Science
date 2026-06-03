@@ -1,0 +1,19 @@
+# Day 22: Clinical Data Management and Electronic Health Records
+
+## Topic of the Day
+
+Clinical Data Management and Electronic Health Records
+
+## Assigned Readings
+
+1. Clinical data standards (CDISC) overview
+2. EHR data quality challenges
+3. Data governance in clinical research
+
+## Assigned Listen
+
+- Podcast: Clinical Informatics Essentials
+
+## Career Highlight
+
+- Career highlight: Clinical Data Manager

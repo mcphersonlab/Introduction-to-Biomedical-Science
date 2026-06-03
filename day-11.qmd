@@ -1,0 +1,19 @@
+# Day 11: Bioinformatics via the Python programming language; Biopython; NCBI; PubChem; UniProt
+
+## Topic of the Day
+
+Bioinformatics via the Python programming language; Biopython; NCBI; PubChem; UniProt
+
+## Assigned Readings
+
+1. Biopython sequence parsing tutorial
+2. NCBI Entrez programmatic access
+3. UniProt protein annotation basics
+
+## Assigned Listen
+
+- Podcast: Bioinformatics Workflows with Python
+
+## Career Highlight
+
+- Career highlight: Bioinformatics Scientist

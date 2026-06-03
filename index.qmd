@@ -1,9 +1,8 @@
+## Introduction to Biomedical Science {.unnumbered}
 
+Welcome to the 30-day **Introduction to Biomedical Science** course.
 
-## Welcome {.unnumbered}
+Use the syllabus to access each day in sequence. Every lesson has its own page with a
+Topic of the Day, assigned readings, an assigned listen, and a career highlight.
 
-Welcome to the 30-day Introduction to Biomedical Science course.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-Add your `day-01.qmd` through `day-30.qmd` lesson files to begin building the course content.
+[Go to the syllabus](syllabus.qmd)

@@ -1,0 +1,19 @@
+# Day 20: Systems Biology and Network Medicine
+
+## Topic of the Day
+
+Systems Biology and Network Medicine
+
+## Assigned Readings
+
+1. Biological network construction
+2. Pathway enrichment analysis
+3. Modeling multi-omics interactions
+
+## Assigned Listen
+
+- Podcast: Systems Biology in Medicine
+
+## Career Highlight
+
+- Career highlight: Systems Biology Scientist

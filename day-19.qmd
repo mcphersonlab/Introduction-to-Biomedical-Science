@@ -1,0 +1,19 @@
+# Day 19: Proteomics and Metabolomics
+
+## Topic of the Day
+
+Proteomics and Metabolomics
+
+## Assigned Readings
+
+1. Mass spectrometry basics for proteomics
+2. Metabolite identification workflows
+3. Quality control in omics datasets
+
+## Assigned Listen
+
+- Podcast: Emerging Trends in Proteomics
+
+## Career Highlight
+
+- Career highlight: Proteomics Specialist

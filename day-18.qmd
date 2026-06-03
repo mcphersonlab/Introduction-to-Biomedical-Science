@@ -1,0 +1,19 @@
+# Day 18: Genomics and Sequencing Technologies
+
+## Topic of the Day
+
+Genomics and Sequencing Technologies
+
+## Assigned Readings
+
+1. DNA sequencing platforms comparison
+2. Genome assembly concepts
+3. Variant calling workflow overview
+
+## Assigned Listen
+
+- Podcast: The Genomics Revolution
+
+## Career Highlight
+
+- Career highlight: Genomics Analyst

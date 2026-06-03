@@ -1,0 +1,19 @@
+# Day 23: Reproducible Research and Open Science
+
+## Topic of the Day
+
+Reproducible Research and Open Science
+
+## Assigned Readings
+
+1. FAIR data principles
+2. Version control for scientific projects
+3. Preregistration and study transparency
+
+## Assigned Listen
+
+- Podcast: Open Science in Biomedicine
+
+## Career Highlight
+
+- Career highlight: Open Science Program Manager

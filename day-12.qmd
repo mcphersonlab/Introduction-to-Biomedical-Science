@@ -1,0 +1,19 @@
+# Day 12: Typesetting via the LaTeX programming language; Overleaf
+
+## Topic of the Day
+
+Typesetting via the LaTeX programming language; Overleaf
+
+## Assigned Readings
+
+1. LaTeX document structure basics
+2. Overleaf collaborative workflow
+3. Tables and figures in scientific manuscripts
+
+## Assigned Listen
+
+- Podcast: LaTeX and Reproducible Documents
+
+## Career Highlight
+
+- Career highlight: Scientific Technical Writer

@@ -1,0 +1,19 @@
+# Day 16: Biostatistics: Study Design and Hypothesis Testing
+
+## Topic of the Day
+
+Biostatistics: Study Design and Hypothesis Testing
+
+## Assigned Readings
+
+1. Power analysis and sample size
+2. Null and alternative hypotheses
+3. Common parametric and nonparametric tests
+
+## Assigned Listen
+
+- Podcast: Biostatistics for Early Researchers
+
+## Career Highlight
+
+- Career highlight: Biostatistics Consultant

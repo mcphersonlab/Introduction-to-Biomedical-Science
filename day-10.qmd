@@ -1,0 +1,19 @@
+# Day 10: Statistics via the R programming language; RStudio Cloud; 4RDS; Stats and R
+
+## Topic of the Day
+
+Statistics via the R programming language; RStudio Cloud; 4RDS; Stats and R
+
+## Assigned Readings
+
+1. RStudio Cloud quick start
+2. 4RDS introduction to data science
+3. Descriptive statistics in R
+
+## Assigned Listen
+
+- Podcast: Learning Statistics with R
+
+## Career Highlight
+
+- Career highlight: Biostatistician

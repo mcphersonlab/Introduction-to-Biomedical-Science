@@ -1,0 +1,19 @@
+# Day 17: Data Visualization in R for Biomedical Data
+
+## Topic of the Day
+
+Data Visualization in R for Biomedical Data
+
+## Assigned Readings
+
+1. Grammar of graphics essentials
+2. Visualizing longitudinal biomedical data
+3. Communicating uncertainty with confidence intervals
+
+## Assigned Listen
+
+- Podcast: Effective Data Visualization
+
+## Career Highlight
+
+- Career highlight: Data Visualization Scientist
