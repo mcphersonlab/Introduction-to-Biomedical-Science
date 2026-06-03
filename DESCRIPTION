@@ -1,9 +1,9 @@
-Package: your-book-name
-Title: Your Book Title
+Package: introduction-to-biomedical-science
+Title: 30-Day Introduction to Biomedical Science
 Version: 0.1.0
-Authors@R: c(person("Your", "Name", "your.email@example.com", c("aut", "cre", "cph")))
+Authors@R: c(person("McPherson", "Lab", "contact@example.com", c("aut", "cre", "cph")))
 Depends: R (>= 4.0)
-URL: https://github.com/username/repository-name
+URL: https://github.com/mcphersonlab/Introduction-to-Biomedical-Science
 Imports:
   rmarkdown,
   reticulate
