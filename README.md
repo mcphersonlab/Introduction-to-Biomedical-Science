@@ -6,14 +6,14 @@ A Quarto-based repository configured for a 30-day biomedical science course and 
 
 The repository holds:
 
-- [`.github/workflows/quarto-render.yml`](.github/workflows/quarto-render.yml): Install, setup, and render a Quarto book using R and Python
+- [`.github/workflows/quarto-render.yml`](.github/workflows/quarto-render.yml): Install Quarto CLI, install Python dependencies, render, and deploy the Quarto book
 - [`_quarto.yml`](_quarto.yml): Core course/book metadata and chapter structure (for more options see [Quarto: Book Structure](https://quarto.org/docs/books/book-structure.html))
 - [`index.qmd`](index.qmd): Course landing page
 
 Additional files:
 
 - [`requirements.txt`](requirements.txt): List of Python Packages to install
-- [`DESCRIPTION`](DESCRIPTION): List of R Packages using the standard DESCRIPTION file to install with `pak`.
+- [`DESCRIPTION`](DESCRIPTION): Optional R package metadata for local/project use.
 
 ## Adding your day files
 
