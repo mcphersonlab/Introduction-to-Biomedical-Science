@@ -15,11 +15,37 @@ book:
   sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
-    # Add your day files when ready:
-    # - day-01.qmd
-    # - day-02.qmd
-    # ...
-    # - day-30.qmd
+    - syllabus.qmd
+    - day/day-01.qmd
+    - day/day-02.qmd
+    - day/day-03.qmd
+    - day/day-04.qmd
+    - day/day-05.qmd
+    - day/day-06.qmd
+    - day/day-07.qmd
+    - day/day-08.qmd
+    - day/day-09.qmd
+    - day/day-10.qmd
+    - day/day-11.qmd
+    - day/day-12.qmd
+    - day/day-13.qmd
+    - day/day-14.qmd
+    - day/day-15.qmd
+    - day/day-16.qmd
+    - day/day-17.qmd
+    - day/day-18.qmd
+    - day/day-19.qmd
+    - day/day-20.qmd
+    - day/day-21.qmd
+    - day/day-22.qmd
+    - day/day-23.qmd
+    - day/day-24.qmd
+    - day/day-25.qmd
+    - day/day-26.qmd
+    - day/day-27.qmd
+    - day/day-28.qmd
+    - day/day-29.qmd
+    - day/day-30.qmd
     
 format:
   html: 
