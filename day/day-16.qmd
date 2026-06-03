@@ -6,14 +6,20 @@ Biostatistics: Study Design and Hypothesis Testing
 
 ## Assigned Readings
 
-1. Power analysis and sample size
-2. Null and alternative hypotheses
-3. Common parametric and nonparametric tests
+1. [Power analysis and sample size ↗](#)
+2. [Null and alternative hypotheses ↗](#)
+3. [Common parametric and nonparametric tests ↗](#)
 
 ## Assigned Listen
 
 - Podcast: Biostatistics for Early Researchers
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Assigned Watch
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Career Highlight
 
-- Career highlight: Biostatistics Consultant
+- Career highlight: [Biostatistics Consultant ↗](#)
