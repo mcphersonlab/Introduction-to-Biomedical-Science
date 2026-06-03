@@ -1,0 +1,9 @@
+Package: your-book-name
+Title: Your Book Title
+Version: 0.1.0
+Authors@R: c(person("Your", "Name", "your.email@example.com", c("aut", "cre", "cph")))
+Depends: R (>= 4.0)
+URL: https://github.com/username/repository-name
+Imports:
+  rmarkdown,
+  reticulate

@@ -1,0 +1,7 @@
+# Your First Chapter {#sec-first-chapter}
+
+This is your first chapter. Add your content here.
+
+## Section Example
+
+You can add sections, subsections, and content as needed.

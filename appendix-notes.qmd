@@ -1,0 +1,3 @@
+# Additional Notes {#sec-appendix}
+
+This is an appendix section. Add any supplementary material here.

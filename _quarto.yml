@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: _book
+  
+book:
+  title: "Your Book Title"
+  author: "Your Name"
+  description: | 
+    A description of your book
+  #cover-image: images/cover.png
+  site-url: https://username.github.io/repository-name
+  repo-url: https://github.com/username/repository-name
+  repo-branch: main
+  repo-actions: [edit]
+  sharing: [twitter, facebook, linkedin]
+  chapters:
+    - index.qmd
+    - part: my-first-book.qmd
+      chapters: 
+        - hello-world.qmd
+  appendices:
+    - appendix-notes.qmd
+    
+format:
+  html: 
+    theme: cosmo
+    code-link: true
