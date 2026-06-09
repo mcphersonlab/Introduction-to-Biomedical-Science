@@ -6,14 +6,20 @@ Clinical Data Management and Electronic Health Records
 
 ## Assigned Readings
 
-1. Clinical data standards (CDISC) overview
-2. EHR data quality challenges
-3. Data governance in clinical research
+1. [Clinical data standards (CDISC) overview ↗](#)
+2. [EHR data quality challenges ↗](#)
+3. [Data governance in clinical research ↗](#)
 
 ## Assigned Listen
 
 - Podcast: Clinical Informatics Essentials
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Assigned Watch
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Career Highlight
 
-- Career highlight: Clinical Data Manager
+- Career highlight: [Clinical Data Manager ↗](#)

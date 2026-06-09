@@ -6,14 +6,20 @@ Biology: Cell Culture, Invertebrate and Animal Models of Disease
 
 ## Assigned Readings
 
-1. Basics of mammalian cell culture
-2. Zebrafish and drosophila disease models
-3. Ethical use of rodent models
+1. [Basics of mammalian cell culture ↗](#)
+2. [Zebrafish and drosophila disease models ↗](#)
+3. [Ethical use of rodent models ↗](#)
 
 ## Assigned Listen
 
 - Podcast: Model Organisms in Modern Biology
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Assigned Watch
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Career Highlight
 
-- Career highlight: Preclinical Research Scientist
+- Career highlight: [Preclinical Research Scientist ↗](#)
