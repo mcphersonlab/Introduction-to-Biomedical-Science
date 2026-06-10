@@ -1,0 +1,36 @@
+/* Hide numbering in the left sidebar / table of contents */
+
+/* Common Quarto/Pandoc classes for TOC numbers */
+.toc .toc-number,
+.toc-number,
+.sidebar .toc-number,
+.sidebar .section-number,
+.sidebar .heading-number,
+.book .toc-number,
+.navbar .toc-number,
+.sidebar .chapter-number,
+.toc .section-number,
+.toc .heading-number {
+  display: none !important;
+}
+
+/* Hide list markers (if numbers are rendered as list markers) */
+.toc li::marker,
+.sidebar li::marker {
+  color: transparent !important;
+  font-size: 0 !important;
+}
+
+/* Hide numbering added via pseudo-elements */
+.toc a::before,
+.sidebar a::before,
+.book a::before,
+.sidebar-nav a::before {
+  display: none !important;
+}
+
+/* Ensure layout spacing stays clean when numbers are removed */
+.toc a,
+.sidebar a {
+  padding-left: 0.25rem !important;
+}
