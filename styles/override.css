@@ -34,3 +34,8 @@
 .sidebar a {
   padding-left: 0.25rem !important;
 }
+
+/* Hide chapter numbers from bottom navigation buttons */
+.page-navigation .chapter-number {
+  display: none !important;
+}
