@@ -3,18 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll("a[href]").forEach(function (link) {
     const href = link.getAttribute("href") || "";
     if (href.startsWith("#")) return;
-    link.setAttribute("target", "_blank");
-    const relValues = (link.getAttribute("rel") || "").split(/\s+/).filter(Boolean);
-    let relChanged = false;
-    if (!relValues.includes("noopener")) {
-      relValues.push("noopener");
-      relChanged = true;
-    }
-    if (!relValues.includes("noreferrer")) {
-      relValues.push("noreferrer");
-      relChanged = true;
-    }
-    if (relChanged) link.setAttribute("rel", relValues.join(" "));
+    // Do not force links to open in a new tab/window; ensure same-tab behavior.
+    if (link.hasAttribute("target")) link.removeAttribute("target");
   });
 
   document
