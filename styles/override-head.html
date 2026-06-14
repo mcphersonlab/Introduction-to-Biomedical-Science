@@ -14,19 +14,10 @@ document.addEventListener("DOMContentLoaded", function () {
     .querySelectorAll(".sidebar a, .sidebar nav a, .sidebar-navigation a")
     .forEach(function (link) {
       const pattern = /^\s*Day\s+\d+\s*:\s*/i;
-      let updated = false;
-
-      link.childNodes.forEach(function (node) {
-        if (updated || node.nodeType !== Node.TEXT_NODE) return;
-        const nextText = (node.textContent || "").replace(pattern, "");
-        if (nextText !== node.textContent) {
-          node.textContent = nextText;
-          updated = true;
-        }
-      });
-
-      if (!updated && link.children.length === 0) {
-        link.textContent = link.textContent.replace(pattern, "");
+      const walker = document.createTreeWalker(link, NodeFilter.SHOW_TEXT);
+      const firstTextNode = walker.nextNode();
+      if (firstTextNode) {
+        firstTextNode.textContent = (firstTextNode.textContent || "").replace(pattern, "");
       }
     });
 });
