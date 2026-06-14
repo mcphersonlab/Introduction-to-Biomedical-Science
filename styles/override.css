@@ -39,3 +39,13 @@
 .page-navigation .chapter-number {
   display: none !important;
 }
+
+/* Keep sidebar links on one line and show ellipsis when truncated */
+.sidebar a,
+.sidebar nav a,
+.sidebar-navigation a {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

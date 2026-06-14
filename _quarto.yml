@@ -52,3 +52,4 @@ format:
     theme: cosmo
     code-link: true
     css: styles/override.css
+    include-in-header: styles/override-head.html

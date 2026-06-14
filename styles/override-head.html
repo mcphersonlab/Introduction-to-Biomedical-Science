@@ -1,0 +1,19 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("a[href]").forEach(function (link) {
+    const href = link.getAttribute("href") || "";
+    if (href.startsWith("#")) return;
+    link.setAttribute("target", "_blank");
+    const relValues = (link.getAttribute("rel") || "").split(/\s+/).filter(Boolean);
+    if (!relValues.includes("noopener")) relValues.push("noopener");
+    if (!relValues.includes("noreferrer")) relValues.push("noreferrer");
+    link.setAttribute("rel", relValues.join(" "));
+  });
+
+  document
+    .querySelectorAll(".sidebar a, .sidebar nav a, .sidebar-navigation a")
+    .forEach(function (link) {
+      link.textContent = link.textContent.replace(/^\s*Day\s+\d+\s*:\s*/i, "");
+    });
+});
+</script>
