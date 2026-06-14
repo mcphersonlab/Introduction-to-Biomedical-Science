@@ -1,18 +1,18 @@
-# Day 8: Regulatory Affairs: Safety of Drug Development
+# Day 31: Final Presentations and Course Reflection
 
 ## Topic of the Day
 
-Regulatory Affairs: Safety of Drug Development
+Final Presentations and Course Reflection
 
 ## Assigned Readings
 
-1. [FDA phases of drug development ↗](#)
-2. [ICH safety guidelines overview ↗](#)
-3. [Preclinical toxicology fundamentals ↗](#)
+1. [Scientific presentation evaluation rubric ↗](#)
+2. [Reflective practice in science careers ↗](#)
+3. [Building a continuing development plan ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Regulatory Science Explained
+- Podcast: Presenting Your Scientific Story
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Regulatory Affairs: Safety of Drug Development
 
 ## Career Highlight
 
-- Career highlight: [Regulatory Affairs Specialist ↗](#)
+- Career highlight: [Biomedical Science Educator ↗](#)

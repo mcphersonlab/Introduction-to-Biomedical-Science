@@ -1,18 +1,18 @@
-# Day 23: Reproducible Research and Open Science
+# Day 23: Clinical Data Management and Electronic Health Records
 
 ## Topic of the Day
 
-Reproducible Research and Open Science
+Clinical Data Management and Electronic Health Records
 
 ## Assigned Readings
 
-1. [FAIR data principles ↗](#)
-2. [Version control for scientific projects ↗](#)
-3. [Preregistration and study transparency ↗](#)
+1. [Clinical data standards (CDISC) overview ↗](#)
+2. [EHR data quality challenges ↗](#)
+3. [Data governance in clinical research ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Open Science in Biomedicine
+- Podcast: Clinical Informatics Essentials
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Reproducible Research and Open Science
 
 ## Career Highlight
 
-- Career highlight: [Open Science Program Manager ↗](#)
+- Career highlight: [Clinical Data Manager ↗](#)

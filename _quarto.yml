@@ -16,7 +16,6 @@ book:
   chapters:
     - index.qmd
     - syllabus.qmd
-    - day/day-01.qmd
     - day/day-02.qmd
     - day/day-03.qmd
     - day/day-04.qmd
@@ -46,6 +45,7 @@ book:
     - day/day-28.qmd
     - day/day-29.qmd
     - day/day-30.qmd
+    - day/day-31.qmd
     
 format:
   html: 

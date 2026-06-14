@@ -1,18 +1,18 @@
-# Day 24: Grant Writing and Funding Strategies
+# Day 24: Reproducible Research and Open Science
 
 ## Topic of the Day
 
-Grant Writing and Funding Strategies
+Reproducible Research and Open Science
 
 ## Assigned Readings
 
-1. [Specific aims page anatomy ↗](#)
-2. [NIH review criteria ↗](#)
-3. [Budget and justification basics ↗](#)
+1. [FAIR data principles ↗](#)
+2. [Version control for scientific projects ↗](#)
+3. [Preregistration and study transparency ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Winning Biomedical Grants
+- Podcast: Open Science in Biomedicine
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Grant Writing and Funding Strategies
 
 ## Career Highlight
 
-- Career highlight: [Grant Development Specialist ↗](#)
+- Career highlight: [Open Science Program Manager ↗](#)

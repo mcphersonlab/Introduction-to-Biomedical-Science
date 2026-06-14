@@ -1,18 +1,18 @@
-# Day 29: Capstone Project Workshop
+# Day 29: Global Health and Biomedical Equity
 
 ## Topic of the Day
 
-Capstone Project Workshop
+Global Health and Biomedical Equity
 
 ## Assigned Readings
 
-1. [Capstone project planning template ↗](#)
-2. [Milestone and timeline management ↗](#)
-3. [Peer feedback methods ↗](#)
+1. [Global burden of disease overview ↗](#)
+2. [Health disparities in translational research ↗](#)
+3. [Community-engaged biomedical research ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Managing a Research Capstone
+- Podcast: Equity in Global Health
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Capstone Project Workshop
 
 ## Career Highlight
 
-- Career highlight: [Research Program Coordinator ↗](#)
+- Career highlight: [Global Health Researcher ↗](#)

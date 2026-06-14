@@ -1,18 +1,18 @@
-# Day 12: Typesetting via the LaTeX programming language; Overleaf
+# Day 12: Bioinformatics via the Python programming language; Biopython; NCBI; UniProt
 
 ## Topic of the Day
 
-Typesetting via the LaTeX programming language; Overleaf
+Bioinformatics via the Python programming language; Biopython; NCBI; UniProt
 
 ## Assigned Readings
 
-1. [LaTeX document structure basics ↗](#)
-2. [Overleaf collaborative workflow ↗](#)
-3. [Tables and figures in scientific manuscripts ↗](#)
+1. [Biopython sequence parsing tutorial ↗](#)
+2. [NCBI Entrez programmatic access ↗](#)
+3. [UniProt protein annotation basics ↗](#)
 
 ## Assigned Listen
 
-- Podcast: LaTeX and Reproducible Documents
+- Podcast: Bioinformatics Workflows with Python
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Typesetting via the LaTeX programming language; Overleaf
 
 ## Career Highlight
 
-- Career highlight: [Scientific Technical Writer ↗](#)
+- Career highlight: [Bioinformatics Scientist ↗](#)

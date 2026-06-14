@@ -1,34 +1,39 @@
-# Day 2: Journals of Biomedical Science; PubMed
+# Day 2: Institutions of Higher Education
 
 ## Topic of the Day
 
-Journals and Publishers of Biomedical Science
+Institutions of Higher Education
 
 ## Assigned Readings
 
-1. [How to use PubMed search filters ↗](https://guides.lib.unc.edu/search-pubmed/filters)
+1. [Nature News: Latest science news, discoveries and analysis ↗](https://www.nature.com/news)
+2. [Science Magazine: News from Science | AAAS ↗](https://www.science.org/news)
+3. [Times Higher Education home | Times Higher Education (THE) ↗](https://www.timeshighereducation.com/)
+4. [2026 Best National Universities Rankings | US News College Rankings ↗](https://www.usnews.com/best-colleges/rankings/national-universities)
 
-2. [Publishing | Collection | Nature](https://www.nature.com/collections/ejcdjaehdf)
-3. [Journal selection criteria for submissions ↗](https://guides.library.jhu.edu/scholarly_publishing/journals)
-
-4. [OpenRead ↗](https://www.openread.academy/)
-
-5. [Research Rabbit ↗](https://www.researchrabbit.ai/)
-
-6. [Connected Papers ↗](https://www.connectedpapers.com/)
-
-7. [Springer Nature ↗](https://www.springernature.com/gp/products/journals)
-
-8. [Elsevier ↗](https://www.elsevier.com/products/journals)
-
-9. [Wiley ↗](https://authors.wiley.com/home.html)
 
 ## Assigned Watch
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/2qDtAfQ0UtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GW4s58u8PZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Career Highlight
 
-- Scientific Editor | [Going pro ↗](https://doi.org/10.1038/s41592-021-01233-0) and [How editors edit ↗](https://doi.org/10.1038/s41592-019-0324-z)
+- Career highlight: [Medical Science Librarian ↗](#)
+- [Reading between the lines: application essays predict university success ↗](https://www.nature.com/articles/d41586-024-01396-8)
+- [Canada just hiked PhD and postdoc pay — here’s how to get your country to do it, too ↗](https://www.nature.com/articles/d41586-024-02227-6)
+- [How I hunt down fake degrees and zombie universities ↗](https://www.nature.com/articles/d41586-024-03419-w)
+- [Your dissertation is your business card! ↗](https://www.nature.com/articles/d41586-024-03176-w)
+- [Do you need extra training before graduate school? Consider a post-baccalaureate position ↗](https://www.nature.com/articles/d41586-024-04020-x)
+- [‘I was told to toughen up’: is academia getting resilience all wrong? ↗](https://www.nature.com/articles/d41586-025-00383-x)
+- [Culture wars are raging on US campuses. Will they affect research? ↗](https://www.nature.com/articles/d41586-024-00393-1)
+- [Why teachers should explore ChatGPT’s potential — despite the risks ↗](https://www.nature.com/articles/d41586-023-03505-5)
+- [Is it time for tenure to evolve? ↗](https://www.nature.com/articles/d41586-023-02498-5)
 
-- [Nature Careers Podcast | Nature](https://www.nature.com/nature/articles?type=nature-careers-podcast)
+- [How to educate the world: prioritize funding and data ↗](https://www.nature.com/articles/d41586-023-02327-9)
+
+- [How mixing academia and industry opens doors in graduate school and beyond ↗](https://www.nature.com/articles/d41586-023-01710-w)
+
+- [The scandal of researchers paid less than a living wage ↗](https://www.nature.com/articles/d41586-022-03472-3)
+
+- [Eight career tips from Nobel Laureates ↗](https://www.nature.com/articles/d41586-021-02772-4)

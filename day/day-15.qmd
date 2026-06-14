@@ -1,18 +1,18 @@
-# Day 15: Research Ethics and Institutional Review Boards
+# Day 15: Science Vendors: Thermo Fisher, Eppendorf, Qiagen
 
 ## Topic of the Day
 
-Research Ethics and Institutional Review Boards
+Science Vendors: Thermo Fisher, Eppendorf, Qiagen
 
 ## Assigned Readings
 
-1. [Belmont Report principles ↗](#)
-2. [IRB protocol submission checklist ↗](#)
-3. [Informed consent in biomedical research ↗](#)
+1. [Thermo Fisher technical resources ↗](#)
+2. [Eppendorf application notes ↗](#)
+3. [Qiagen sample preparation guides ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Ethics in Human Subjects Research
+- Podcast: Choosing the Right Lab Vendor
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Research Ethics and Institutional Review Boards
 
 ## Career Highlight
 
-- Career highlight: [Research Compliance Officer ↗](#)
+- Career highlight: [Field Applications Scientist ↗](#)

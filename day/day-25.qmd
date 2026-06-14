@@ -1,18 +1,18 @@
-# Day 25: Scientific Presentations and Poster Design
+# Day 25: Grant Writing and Funding Strategies
 
 ## Topic of the Day
 
-Scientific Presentations and Poster Design
+Grant Writing and Funding Strategies
 
 ## Assigned Readings
 
-1. [Slide design for scientific talks ↗](#)
-2. [Poster layout principles ↗](#)
-3. [Storytelling with data ↗](#)
+1. [Specific aims page anatomy ↗](#)
+2. [NIH review criteria ↗](#)
+3. [Budget and justification basics ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Scientific Communication Skills
+- Podcast: Winning Biomedical Grants
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Scientific Presentations and Poster Design
 
 ## Career Highlight
 
-- Career highlight: [Medical Communications Specialist ↗](#)
+- Career highlight: [Grant Development Specialist ↗](#)

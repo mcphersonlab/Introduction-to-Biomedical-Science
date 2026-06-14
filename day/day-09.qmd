@@ -1,18 +1,18 @@
-# Day 9: Evidence-Based Medicine (EBM): Clinical Guidelines and Grading of Recommendations
+# Day 9: Evidence-Based Medicine (EBM): Clinical Trials and Other Levels of Evidence
 
 ## Topic of the Day
 
-Evidence-Based Medicine (EBM): Clinical Guidelines and Grading of Recommendations
+Evidence-Based Medicine (EBM): Clinical Trials and Other Levels of Evidence
 
 ## Assigned Readings
 
-1. [Guideline development methods ↗](#)
-2. [GRADE framework essentials ↗](#)
-3. [Applying recommendations to patient care ↗](#)
+1. [Randomized controlled trial design ↗](#)
+2. [Hierarchy of evidence in EBM ↗](#)
+3. [Bias and confounding in clinical studies ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Guideline Development in Practice
+- Podcast: Designing Better Clinical Trials
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Evidence-Based Medicine (EBM): Clinical Guidelines and Grading of Recommendation
 
 ## Career Highlight
 
-- Career highlight: [Evidence Synthesis Specialist ↗](#)
+- Career highlight: [Clinical Trial Manager ↗](#)

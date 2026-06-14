@@ -1,18 +1,18 @@
-# Day 20: Systems Biology and Network Medicine
+# Day 20: Proteomics and Metabolomics
 
 ## Topic of the Day
 
-Systems Biology and Network Medicine
+Proteomics and Metabolomics
 
 ## Assigned Readings
 
-1. [Biological network construction ↗](#)
-2. [Pathway enrichment analysis ↗](#)
-3. [Modeling multi-omics interactions ↗](#)
+1. [Mass spectrometry basics for proteomics ↗](#)
+2. [Metabolite identification workflows ↗](#)
+3. [Quality control in omics datasets ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Systems Biology in Medicine
+- Podcast: Emerging Trends in Proteomics
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Systems Biology and Network Medicine
 
 ## Career Highlight
 
-- Career highlight: [Systems Biology Scientist ↗](#)
+- Career highlight: [Proteomics Specialist ↗](#)

@@ -1,18 +1,18 @@
-# Day 28: Global Health and Biomedical Equity
+# Day 28: Entrepreneurship and Biotechnology Startups
 
 ## Topic of the Day
 
-Global Health and Biomedical Equity
+Entrepreneurship and Biotechnology Startups
 
 ## Assigned Readings
 
-1. [Global burden of disease overview ↗](#)
-2. [Health disparities in translational research ↗](#)
-3. [Community-engaged biomedical research ↗](#)
+1. [Biotech business model fundamentals ↗](#)
+2. [Intellectual property basics ↗](#)
+3. [Regulatory strategy for startups ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Equity in Global Health
+- Podcast: Starting a Biotech Company
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Global Health and Biomedical Equity
 
 ## Career Highlight
 
-- Career highlight: [Global Health Researcher ↗](#)
+- Career highlight: [Biotech Product Manager ↗](#)

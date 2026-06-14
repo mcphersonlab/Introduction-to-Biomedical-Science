@@ -1,18 +1,18 @@
-# Day 19: Proteomics and Metabolomics
+# Day 19: Genomics and Sequencing Technologies
 
 ## Topic of the Day
 
-Proteomics and Metabolomics
+Genomics and Sequencing Technologies
 
 ## Assigned Readings
 
-1. [Mass spectrometry basics for proteomics ↗](#)
-2. [Metabolite identification workflows ↗](#)
-3. [Quality control in omics datasets ↗](#)
+1. [DNA sequencing platforms comparison ↗](#)
+2. [Genome assembly concepts ↗](#)
+3. [Variant calling workflow overview ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Emerging Trends in Proteomics
+- Podcast: The Genomics Revolution
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Proteomics and Metabolomics
 
 ## Career Highlight
 
-- Career highlight: [Proteomics Specialist ↗](#)
+- Career highlight: [Genomics Analyst ↗](#)

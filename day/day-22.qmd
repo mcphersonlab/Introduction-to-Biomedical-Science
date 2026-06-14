@@ -1,18 +1,18 @@
-# Day 22: Clinical Data Management and Electronic Health Records
+# Day 22: Translational Medicine and Biomarkers
 
 ## Topic of the Day
 
-Clinical Data Management and Electronic Health Records
+Translational Medicine and Biomarkers
 
 ## Assigned Readings
 
-1. [Clinical data standards (CDISC) overview ↗](#)
-2. [EHR data quality challenges ↗](#)
-3. [Data governance in clinical research ↗](#)
+1. [Biomarker qualification framework ↗](#)
+2. [Bench-to-bedside translational pipeline ↗](#)
+3. [Companion diagnostics case studies ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Clinical Informatics Essentials
+- Podcast: Biomarkers and Precision Health
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Clinical Data Management and Electronic Health Records
 
 ## Career Highlight
 
-- Career highlight: [Clinical Data Manager ↗](#)
+- Career highlight: [Translational Research Scientist ↗](#)

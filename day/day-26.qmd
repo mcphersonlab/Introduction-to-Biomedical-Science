@@ -1,18 +1,18 @@
-# Day 26: Team Science and Interdisciplinary Collaboration
+# Day 26: Scientific Presentations and Poster Design
 
 ## Topic of the Day
 
-Team Science and Interdisciplinary Collaboration
+Scientific Presentations and Poster Design
 
 ## Assigned Readings
 
-1. [Team roles in biomedical projects ↗](#)
-2. [Managing interdisciplinary meetings ↗](#)
-3. [Conflict resolution in research teams ↗](#)
+1. [Slide design for scientific talks ↗](#)
+2. [Poster layout principles ↗](#)
+3. [Storytelling with data ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Team Science Leadership
+- Podcast: Scientific Communication Skills
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Team Science and Interdisciplinary Collaboration
 
 ## Career Highlight
 
-- Career highlight: [Project Scientist ↗](#)
+- Career highlight: [Medical Communications Specialist ↗](#)

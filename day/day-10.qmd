@@ -1,18 +1,18 @@
-# Day 10: Statistics via the R programming language; RStudio Cloud; 4RDS; Stats and R
+# Day 10: Evidence-Based Medicine (EBM): Clinical Guidelines and Grading of Recommendations
 
 ## Topic of the Day
 
-Statistics via the R programming language; RStudio Cloud; 4RDS; Stats and R
+Evidence-Based Medicine (EBM): Clinical Guidelines and Grading of Recommendations
 
 ## Assigned Readings
 
-1. [RStudio Cloud quick start ↗](#)
-2. [4RDS introduction to data science ↗](#)
-3. [Descriptive statistics in R ↗](#)
+1. [Guideline development methods ↗](#)
+2. [GRADE framework essentials ↗](#)
+3. [Applying recommendations to patient care ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Learning Statistics with R
+- Podcast: Guideline Development in Practice
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Statistics via the R programming language; RStudio Cloud; 4RDS; Stats and R
 
 ## Career Highlight
 
-- Career highlight: [Biostatistician ↗](#)
+- Career highlight: [Evidence Synthesis Specialist ↗](#)

@@ -1,18 +1,18 @@
-# Day 18: Genomics and Sequencing Technologies
+# Day 18: Data Visualization in R for Biomedical Data
 
 ## Topic of the Day
 
-Genomics and Sequencing Technologies
+Data Visualization in R for Biomedical Data
 
 ## Assigned Readings
 
-1. [DNA sequencing platforms comparison ↗](#)
-2. [Genome assembly concepts ↗](#)
-3. [Variant calling workflow overview ↗](#)
+1. [Grammar of graphics essentials ↗](#)
+2. [Visualizing longitudinal biomedical data ↗](#)
+3. [Communicating uncertainty with confidence intervals ↗](#)
 
 ## Assigned Listen
 
-- Podcast: The Genomics Revolution
+- Podcast: Effective Data Visualization
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Genomics and Sequencing Technologies
 
 ## Career Highlight
 
-- Career highlight: [Genomics Analyst ↗](#)
+- Career highlight: [Data Visualization Scientist ↗](#)

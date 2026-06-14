@@ -1,18 +1,18 @@
-# Day 11: Bioinformatics via the Python programming language; Biopython; NCBI; PubChem; UniProt
+# Day 11: Statistics via the R programming language; RStudio Cloud; 4RDS; Stats and R
 
 ## Topic of the Day
 
-Bioinformatics via the Python programming language; Biopython; NCBI; PubChem; UniProt
+Statistics via the R programming language; RStudio Cloud; 4RDS; Stats and R
 
 ## Assigned Readings
 
-1. [Biopython sequence parsing tutorial ↗](#)
-2. [NCBI Entrez programmatic access ↗](#)
-3. [UniProt protein annotation basics ↗](#)
+1. [RStudio Cloud quick start ↗](#)
+2. [4RDS introduction to data science ↗](#)
+3. [Descriptive statistics in R ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Bioinformatics Workflows with Python
+- Podcast: Learning Statistics with R
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Bioinformatics via the Python programming language; Biopython; NCBI; PubChem; Un
 
 ## Career Highlight
 
-- Career highlight: [Bioinformatics Scientist ↗](#)
+- Career highlight: [Biostatistician ↗](#)

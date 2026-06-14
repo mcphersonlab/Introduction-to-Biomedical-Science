@@ -1,18 +1,18 @@
-# Day 5: Drug Discovery: Medicinal Chemistry, Pharmacology
+# Day 5: Biology: Cell Culture, Invertebrate and Animal Models of Disease
 
 ## Topic of the Day
 
-Drug Discovery: Medicinal Chemistry, Pharmacology
+Biology: Cell Culture, Invertebrate and Animal Models of Disease
 
 ## Assigned Readings
 
-1. [Target identification and validation ↗](#)
-2. [Medicinal chemistry optimization cycles ↗](#)
-3. [Pharmacology dose-response fundamentals ↗](#)
+1. [Basics of mammalian cell culture ↗](#)
+2. [Zebrafish and drosophila disease models ↗](#)
+3. [Ethical use of rodent models ↗](#)
 
 ## Assigned Listen
 
-- Podcast: From Hit to Lead in Drug Discovery
+- Podcast: Model Organisms in Modern Biology
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Drug Discovery: Medicinal Chemistry, Pharmacology
 
 ## Career Highlight
 
-- Career highlight: [Medicinal Chemist ↗](#)
+- Career highlight: [Preclinical Research Scientist ↗](#)

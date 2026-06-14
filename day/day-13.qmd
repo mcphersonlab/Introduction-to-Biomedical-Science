@@ -1,42 +1,18 @@
-# Day 13: Science Career Resources: Nature Careers, Science Careers
+# Day 13: Typesetting via the LaTeX programming language; Overleaf
 
 ## Topic of the Day
 
-Science Career Resources: Nature Careers, Science Careers
+Typesetting via the LaTeX programming language; Overleaf
 
 ## Assigned Readings
 
-1. [Time tracking for early-career researchers: a practical guide ↗](#)
-2. [Five reasons to do an internship during your PhD program ↗](#)
-3. [Overcoming my writing guilt: writing in lockdown ↗](#)
-4. [Design your own doctoral project ↗](#)
-5. ['Hard' skills from our PhDs remain relevant beyond academia ↗](#)
-6. [Sell yourself and your science in a compelling personal statement ↗](#)
-7. [Boomerang academics: why we left academia for industry, but then came back ↗](#)
-8. [Why I use Notion to organize my PhD research ↗](#)
-9. [How mixing academia and industry opens doors in graduate school and beyond ↗](#)
-10. [PhD students face cash crisis with wages that don't cover living costs ↗](#)
-11. [The mental health of PhD researchers demands urgent attention ↗](#)
-12. [What makes PhD students happy? Good supervision ↗](#)
-13. [Pay, perks and culture shocks: a toolkit for scientists moving to industry ↗](#)
-14. [Hunger on campus: why US PhD students are fighting over food ↗](#)
-15. [How to find, read and organize papers ↗](#)
-16. [The 100 memes that immortalize my PhD defense ↗](#)
-17. [Lab to clinic: building a culture of translation ↗](#)
-18. [11 reasons why we've stayed in academia ↗](#)
-19. [How to network with the brightest minds in science ↗](#)
-20. [Stressed out by PhD life? Five strategies to take back the joy ↗](#)
-21. [Five important financial moves for PhD students ↗](#)
-22. [Three actions PhD-holders should take to land their next job ↗](#)
-23. [Why you should write your PhD thesis backwards ↗](#)
-24. [You're only human: a six-step strategy to surviving your PhD ↗](#)
-25. [PhD scientists who forged a career off the beaten track ↗](#)
-26. [Should I return to my home country after my PhD abroad? ↗](#)
+1. [LaTeX document structure basics ↗](#)
+2. [Overleaf collaborative workflow ↗](#)
+3. [Tables and figures in scientific manuscripts ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Careers Beyond the Bench
-- Additional journal listening resources: [Journal Podcasts on Spotify](journal-podcasts.qmd)
+- Podcast: LaTeX and Reproducible Documents
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -46,4 +22,4 @@ Science Career Resources: Nature Careers, Science Careers
 
 ## Career Highlight
 
-- Career highlight: [Science Career Coach ↗](#)
+- Career highlight: [Scientific Technical Writer ↗](#)

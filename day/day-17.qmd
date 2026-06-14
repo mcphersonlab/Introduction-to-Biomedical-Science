@@ -1,18 +1,18 @@
-# Day 17: Data Visualization in R for Biomedical Data
+# Day 17: Biostatistics: Study Design and Hypothesis Testing
 
 ## Topic of the Day
 
-Data Visualization in R for Biomedical Data
+Biostatistics: Study Design and Hypothesis Testing
 
 ## Assigned Readings
 
-1. [Grammar of graphics essentials ↗](#)
-2. [Visualizing longitudinal biomedical data ↗](#)
-3. [Communicating uncertainty with confidence intervals ↗](#)
+1. [Power analysis and sample size ↗](#)
+2. [Null and alternative hypotheses ↗](#)
+3. [Common parametric and nonparametric tests ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Effective Data Visualization
+- Podcast: Biostatistics for Early Researchers
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Data Visualization in R for Biomedical Data
 
 ## Career Highlight
 
-- Career highlight: [Data Visualization Scientist ↗](#)
+- Career highlight: [Biostatistics Consultant ↗](#)

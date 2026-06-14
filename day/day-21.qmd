@@ -1,18 +1,18 @@
-# Day 21: Translational Medicine and Biomarkers
+# Day 21: Systems Biology and Network Medicine
 
 ## Topic of the Day
 
-Translational Medicine and Biomarkers
+Systems Biology and Network Medicine
 
 ## Assigned Readings
 
-1. [Biomarker qualification framework ↗](#)
-2. [Bench-to-bedside translational pipeline ↗](#)
-3. [Companion diagnostics case studies ↗](#)
+1. [Biological network construction ↗](#)
+2. [Pathway enrichment analysis ↗](#)
+3. [Modeling multi-omics interactions ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Biomarkers and Precision Health
+- Podcast: Systems Biology in Medicine
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Translational Medicine and Biomarkers
 
 ## Career Highlight
 
-- Career highlight: [Translational Research Scientist ↗](#)
+- Career highlight: [Systems Biology Scientist ↗](#)

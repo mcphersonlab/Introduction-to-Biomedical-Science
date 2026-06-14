@@ -1,18 +1,18 @@
-# Day 30: Final Presentations and Course Reflection
+# Day 30: Capstone Project Workshop
 
 ## Topic of the Day
 
-Final Presentations and Course Reflection
+Capstone Project Workshop
 
 ## Assigned Readings
 
-1. [Scientific presentation evaluation rubric ↗](#)
-2. [Reflective practice in science careers ↗](#)
-3. [Building a continuing development plan ↗](#)
+1. [Capstone project planning template ↗](#)
+2. [Milestone and timeline management ↗](#)
+3. [Peer feedback methods ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Presenting Your Scientific Story
+- Podcast: Managing a Research Capstone
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Final Presentations and Course Reflection
 
 ## Career Highlight
 
-- Career highlight: [Biomedical Science Educator ↗](#)
+- Career highlight: [Research Program Coordinator ↗](#)

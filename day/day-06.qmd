@@ -1,18 +1,18 @@
-# Day 6: Drug Development: Biopharmaceutics, Pharmacokinetics, Pharmacodynamics
+# Day 6: Drug Discovery: Medicinal Chemistry, Pharmacology
 
 ## Topic of the Day
 
-Drug Development: Biopharmaceutics, Pharmacokinetics, Pharmacodynamics
+Drug Discovery: Medicinal Chemistry, Pharmacology
 
 ## Assigned Readings
 
-1. [ADME principles in drug development ↗](#)
-2. [Pharmacokinetic parameter interpretation ↗](#)
-3. [Pharmacodynamic modeling examples ↗](#)
+1. [Target identification and validation ↗](#)
+2. [Medicinal chemistry optimization cycles ↗](#)
+3. [Pharmacology dose-response fundamentals ↗](#)
 
 ## Assigned Listen
 
-- Podcast: PK/PD in Clinical Translation
+- Podcast: From Hit to Lead in Drug Discovery
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Drug Development: Biopharmaceutics, Pharmacokinetics, Pharmacodynamics
 
 ## Career Highlight
 
-- Career highlight: [Clinical Pharmacologist ↗](#)
+- Career highlight: [Medicinal Chemist ↗](#)

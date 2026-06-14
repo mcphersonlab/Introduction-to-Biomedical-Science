@@ -1,18 +1,18 @@
-# Day 16: Biostatistics: Study Design and Hypothesis Testing
+# Day 16: Research Ethics and Institutional Review Boards
 
 ## Topic of the Day
 
-Biostatistics: Study Design and Hypothesis Testing
+Research Ethics and Institutional Review Boards
 
 ## Assigned Readings
 
-1. [Power analysis and sample size ↗](#)
-2. [Null and alternative hypotheses ↗](#)
-3. [Common parametric and nonparametric tests ↗](#)
+1. [Belmont Report principles ↗](#)
+2. [IRB protocol submission checklist ↗](#)
+3. [Informed consent in biomedical research ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Biostatistics for Early Researchers
+- Podcast: Ethics in Human Subjects Research
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Biostatistics: Study Design and Hypothesis Testing
 
 ## Career Highlight
 
-- Career highlight: [Biostatistics Consultant ↗](#)
+- Career highlight: [Research Compliance Officer ↗](#)

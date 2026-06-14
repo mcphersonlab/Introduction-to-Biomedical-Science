@@ -22,7 +22,7 @@ This repository is set up so you can drop in your course files later without cre
 
 When ready, add your files using this naming convention in the `day/` folder:
 
-- `day/day-01.qmd` through `day/day-30.qmd`
+- `day/day-02.qmd` through `day/day-31.qmd`
 
 Then update the `book.chapters` section in [`_quarto.yml`](_quarto.yml) to include them in order.
 

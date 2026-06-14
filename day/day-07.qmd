@@ -1,18 +1,18 @@
-# Day 7: Regulatory Affairs: Safety of Drug Development
+# Day 7: Drug Development: Biopharmaceutics, Pharmacokinetics, Pharmacodynamics
 
 ## Topic of the Day
 
-Regulatory Affairs: Safety of Drug Development
+Drug Development: Biopharmaceutics, Pharmacokinetics, Pharmacodynamics
 
 ## Assigned Readings
 
-1. [FDA phases of drug development ↗](#)
-2. [ICH safety guidelines overview ↗](#)
-3. [Preclinical toxicology fundamentals ↗](#)
+1. [ADME principles in drug development ↗](#)
+2. [Pharmacokinetic parameter interpretation ↗](#)
+3. [Pharmacodynamic modeling examples ↗](#)
 
 ## Assigned Listen
 
-- Podcast: Regulatory Science Explained
+- Podcast: PK/PD in Clinical Translation
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/SPOTIFY_EPISODE_ID?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -22,4 +22,4 @@ Regulatory Affairs: Safety of Drug Development
 
 ## Career Highlight
 
-- Career highlight: [Regulatory Affairs Specialist ↗](#)
+- Career highlight: [Clinical Pharmacologist ↗](#)
