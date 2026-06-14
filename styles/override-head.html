@@ -5,9 +5,16 @@ document.addEventListener("DOMContentLoaded", function () {
     if (href.startsWith("#")) return;
     link.setAttribute("target", "_blank");
     const relValues = (link.getAttribute("rel") || "").split(/\s+/).filter(Boolean);
-    if (!relValues.includes("noopener")) relValues.push("noopener");
-    if (!relValues.includes("noreferrer")) relValues.push("noreferrer");
-    link.setAttribute("rel", relValues.join(" "));
+    let relChanged = false;
+    if (!relValues.includes("noopener")) {
+      relValues.push("noopener");
+      relChanged = true;
+    }
+    if (!relValues.includes("noreferrer")) {
+      relValues.push("noreferrer");
+      relChanged = true;
+    }
+    if (relChanged) link.setAttribute("rel", relValues.join(" "));
   });
 
   document
@@ -15,9 +22,10 @@ document.addEventListener("DOMContentLoaded", function () {
     .forEach(function (link) {
       const pattern = /^\s*Day\s+\d+\s*:\s*/i;
       const walker = document.createTreeWalker(link, NodeFilter.SHOW_TEXT);
-      const firstTextNode = walker.nextNode();
-      if (firstTextNode) {
-        firstTextNode.textContent = (firstTextNode.textContent || "").replace(pattern, "");
+      let textNode = walker.nextNode();
+      while (textNode) {
+        textNode.textContent = (textNode.textContent || "").replace(pattern, "");
+        textNode = walker.nextNode();
       }
     });
 });
