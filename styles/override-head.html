@@ -1,0 +1,32 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("a[href]").forEach(function (link) {
+    const href = link.getAttribute("href") || "";
+    if (href.startsWith("#")) return;
+    link.setAttribute("target", "_blank");
+    const relValues = (link.getAttribute("rel") || "").split(/\s+/).filter(Boolean);
+    let relChanged = false;
+    if (!relValues.includes("noopener")) {
+      relValues.push("noopener");
+      relChanged = true;
+    }
+    if (!relValues.includes("noreferrer")) {
+      relValues.push("noreferrer");
+      relChanged = true;
+    }
+    if (relChanged) link.setAttribute("rel", relValues.join(" "));
+  });
+
+  document
+    .querySelectorAll(".sidebar a, .sidebar-navigation a")
+    .forEach(function (link) {
+      const pattern = /^\s*Day\s+\d+\s*:\s*/i;
+      const walker = document.createTreeWalker(link, NodeFilter.SHOW_TEXT);
+      let textNode = walker.nextNode();
+      while (textNode) {
+        textNode.textContent = (textNode.textContent || "").replace(pattern, "");
+        textNode = walker.nextNode();
+      }
+    });
+});
+</script>
