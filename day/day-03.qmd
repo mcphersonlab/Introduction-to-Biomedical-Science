@@ -6,6 +6,7 @@ Journals and Publishers of Biomedical Science
 
 ## Assigned Readings
 
+0. [Seven steps for critically analysing research papers](https://doi.org/10.1038/d41586-026-01209-0)
 1. [How to use PubMed search filters ↗](https://guides.lib.unc.edu/search-pubmed/filters)
 2. [Publishing | Collection | Nature](https://www.nature.com/collections/ejcdjaehdf)
 3. [Journal selection criteria for submissions ↗](https://guides.library.jhu.edu/scholarly_publishing/journals)
